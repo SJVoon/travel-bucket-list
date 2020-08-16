@@ -1,0 +1,22 @@
+.header-bg {
+    background-image: url("https://cdn.wallpapersafari.com/6/26/frtjEY.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: 110% 190%;
+    background-position: 100% 48%;
+}
+
+.header-title {
+    font-family: 'Acme', sans-serif;
+    font-size: 50px;
+    color: #eee;
+    line-height: 450px;
+}
+
+.body-container {
+    margin-bottom: 500px;
+}
+
+.card-align {
+    display: inline-flex;
+}
